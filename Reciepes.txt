@@ -1,0 +1,6 @@
+reciepe from me
+
+1.goto to kitchen 
+2.select item
+3.eat
+
